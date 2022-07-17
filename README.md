@@ -1,1 +1,1 @@
-# sturdy_clean_architecture
+# study_clean_architecture
